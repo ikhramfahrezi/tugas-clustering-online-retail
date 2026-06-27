@@ -155,16 +155,16 @@ Tiga jenis visualisasi dibuat untuk mengevaluasi dan menjelaskan hasil clusterin
 
 **Interpretasi & rekomendasi strategi per segmen:**
 
-- **🏆 Champions (Cluster 0)** — Pelanggan paling baru aktif belanja, paling sering, dan nilai belanja
+- **Champions (Cluster 0)** — Pelanggan paling baru aktif belanja, paling sering, dan nilai belanja
   paling besar. Ini adalah pelanggan paling bernilai bagi bisnis. **Strategi:** berikan program loyalitas
   eksklusif, akses produk baru lebih dulu, dan apresiasi khusus agar tetap setia.
-- **💎 Loyal Customers (Cluster 3)** — Pelanggan setia dengan frekuensi dan nilai belanja cukup tinggi,
+- **Loyal Customers (Cluster 3)** — Pelanggan setia dengan frekuensi dan nilai belanja cukup tinggi,
   meski belum sebesar Champions. **Strategi:** dorong dengan program *upsell/cross-sell* agar naik kelas
   menjadi Champions.
-- **🙂 Regular/Potential Customers (Cluster 1)** — Segmen terbesar (50% dari total pelanggan), dengan
+- **Regular/Potential Customers (Cluster 1)** — Segmen terbesar (50% dari total pelanggan), dengan
   frekuensi dan nilai belanja menengah ke bawah. **Strategi:** kampanye *re-engagement* (diskon,
   rekomendasi produk personal) untuk meningkatkan frekuensi belanja mereka.
-- **😴 Hibernating/At Risk Customers (Cluster 2)** — Pelanggan yang sudah lama tidak belanja
+- **Hibernating/At Risk Customers (Cluster 2)** — Pelanggan yang sudah lama tidak belanja
   (rata-rata 252,9 hari/~8 bulan), dengan frekuensi dan nilai belanja paling rendah. **Strategi:**
   kampanye *win-back* (misalnya kupon khusus "kami merindukanmu") agar tidak benar-benar churn.
 
