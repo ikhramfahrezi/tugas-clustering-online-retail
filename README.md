@@ -10,7 +10,11 @@ tugas-clustering-online-retail/
 │   └── Customer_Segmentation_Clustering.ipynb   
 ├── laporan/
 │   └── Laporan_Tugas_Akhir_Clustering.md        
-├── outputs/                          
+├── outputs/     
+│   └── cluster_profile.csv
+│   └── rfm_clustered.csv
+│   └── rfm_table.csv
+│   └── transactions_cleaned.csv                    
 ├── requirements.txt                  
 └── README.md                         
 ```
