@@ -145,17 +145,6 @@ ingin disimpan sebagai file `.png` terpisah (untuk ditempel di laporan/presentas
 
 ---
 
-## ✅ STEP 8 — Lengkapi Laporan
-
-Buka `laporan/Laporan_Tugas_Akhir_Clustering.md` di VSCode. File ini sudah berisi seluruh
-penjelasan tahapan (dengan angka hasil aktual). Yang perlu kamu lakukan:
-1. Cek dan sesuaikan nama/identitas di bagian paling atas.
-2. Bandingkan angka-angka di laporan dengan hasil yang muncul di notebook milikmu sendiri setelah
-   dijalankan — seharusnya **sama persis** karena `random_state=42` membuat hasilnya konsisten.
-3. (Opsional) Convert ke PDF: install extension **"Markdown PDF"** di VSCode → buka file `.md` →
-   klik kanan di editor → **"Markdown PDF: Export (pdf)"**.
-
----
 
 ## 🧩 Troubleshooting Cepat
 
