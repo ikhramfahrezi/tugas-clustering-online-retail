@@ -148,10 +148,10 @@ Tiga jenis visualisasi dibuat untuk mengevaluasi dan menjelaskan hasil clusterin
 
 | Cluster | Jumlah Pelanggan | Recency rata-rata (hari) | Frequency rata-rata | Monetary rata-rata (£) | Label Segmen |
 |---|---|---|---|---|---|
-| 0 | 340 (7,8%) | 16,5 | 14,3 | 5.113,3 | 🏆 **Champions** |
-| 3 | 817 (18,8%) | 33,8 | 6,3 | 2.566,7 | 💎 **Loyal Customers** |
-| 1 | 2.168 (50,0%) | 51,6 | 2,2 | 634,4 | 🙂 **Regular / Potential Customers** |
-| 2 | 1.013 (23,4%) | 252,9 | 1,5 | 428,5 | 😴 **Hibernating / At Risk Customers** |
+| 0 | 340 (7,8%) | 16,5 | 14,3 | 5.113,3 |  **Champions** |
+| 3 | 817 (18,8%) | 33,8 | 6,3 | 2.566,7 |  **Loyal Customers** |
+| 1 | 2.168 (50,0%) | 51,6 | 2,2 | 634,4 |  **Regular / Potential Customers** |
+| 2 | 1.013 (23,4%) | 252,9 | 1,5 | 428,5 |  **Hibernating / At Risk Customers** |
 
 **Interpretasi & rekomendasi strategi per segmen:**
 
