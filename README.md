@@ -17,7 +17,7 @@ tugas-clustering-online-retail/
 
 ---
 
-## ✅ STEP 0 — Cek yang harus sudah terinstall
+##  STEP 1 — Cek yang harus sudah terinstall
 
 1. **Python 3.10 atau lebih baru.**
    Cek dengan buka terminal/CMD, ketik:
@@ -32,7 +32,7 @@ tugas-clustering-online-retail/
 
 ---
 
-## ✅ STEP 1 — Buka folder project di VSCode
+##  STEP 2 — Buka folder project di VSCode
 
 1. Extract/pindahkan folder `tugas-clustering-online-retail` ini ke lokasi yang mudah diingat,
    misalnya `D:\Tugas\DataMining\`.
@@ -43,7 +43,7 @@ tugas-clustering-online-retail/
 
 ---
 
-## ✅ STEP 2 — Install Extension VSCode yang dibutuhkan
+##  STEP 3 — Install Extension VSCode yang dibutuhkan
 
 Klik ikon **Extensions** di sidebar kiri (ikon kotak susun/4 kotak), lalu cari & install:
 
@@ -54,7 +54,7 @@ Tunggu sampai kedua extension selesai terinstall (biasanya muncul tombol "Reload
 
 ---
 
-## ✅ STEP 3 — Buat Virtual Environment (venv)
+##  STEP 4 — Buat Virtual Environment (venv)
 
 Virtual environment ini supaya library tugas ini tidak bercampur dengan project Python lain di
 komputer kamu. Di terminal VSCode (pastikan posisi masih di root folder project), jalankan:
@@ -79,7 +79,7 @@ Setelah aktif, di awal baris terminal akan muncul tulisan `(venv)`. Kalau sudah 
 
 ---
 
-## ✅ STEP 4 — Install Semua Library yang Dibutuhkan
+##  STEP 5 — Install Semua Library yang Dibutuhkan
 
 Masih di terminal yang sudah aktif `(venv)`, jalankan:
 
@@ -95,7 +95,7 @@ lalu ulangi perintah `pip install -r requirements.txt`.
 
 ---
 
-## ✅ STEP 5 — Buka Notebook & Pilih Kernel yang Benar
+##  STEP 6 — Buka Notebook & Pilih Kernel yang Benar
 
 1. Di sidebar kiri VSCode (Explorer), klik folder `notebook/` → buka file
    `Customer_Segmentation_Clustering.ipynb`.
@@ -111,7 +111,7 @@ lalu ulangi perintah `pip install -r requirements.txt`.
 
 ---
 
-## ✅ STEP 6 — Jalankan Notebook Sel demi Sel
+##  STEP 7 — Jalankan Notebook Sel demi Sel
 
 1. Klik sel paling atas (judul tugas).
 2. Tekan **`Shift + Enter`** untuk menjalankan sel itu dan otomatis pindah ke sel berikutnya.
@@ -130,7 +130,7 @@ lalu ulangi perintah `pip install -r requirements.txt`.
 
 ---
 
-## ✅ STEP 7 — Cek Hasil
+##  STEP 8 — Cek Hasil
 
 Setelah notebook selesai dijalankan semua, buka folder `outputs/` di Explorer VSCode — seharusnya
 sudah otomatis terisi:
