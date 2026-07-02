@@ -73,7 +73,7 @@ source venv/bin/activate
 
 Setelah aktif, di awal baris terminal akan muncul tulisan `(venv)`. Kalau sudah muncul, lanjut ke step berikutnya.
 
-> ⚠️ **Setiap kali kamu menutup dan membuka ulang VSCode**, kamu harus mengulangi perintah
+>  **Setiap kali kamu menutup dan membuka ulang VSCode**, kamu harus mengulangi perintah
 > `activate` di atas sebelum kerja lagi (kecuali kamu set kernel Jupyter-nya, lihat Step 5 —
 > biasanya VSCode otomatis mengaktifkan venv kalau kamu pilih kernel yang benar).
 
@@ -106,7 +106,7 @@ lalu ulangi perintah `pip install -r requirements.txt`.
 4. Kalau venv tidak muncul di pilihan, klik ikon refresh/reload di pojok kanan atas, atau tutup
    dan buka ulang VSCode lalu ulangi langkah ini.
 
-> 🔑 Ini langkah paling sering bikin error ("ModuleNotFoundError") kalau kelewat — pastikan kernel
+> Ini langkah paling sering bikin error ("ModuleNotFoundError") kalau kelewat — pastikan kernel
 > yang dipilih benar-benar dari `venv`, bukan Python sistem/global.
 
 ---
@@ -123,7 +123,7 @@ lalu ulangi perintah `pip install -r requirements.txt`.
 4. **Baca setiap output yang muncul** sebelum lanjut ke sel berikutnya — ini bagian penting dari
    belajarnya, bukan cuma menjalankan tanpa mengerti.
 5. Kalau ingin menjalankan semua sel sekaligus dari awal: klik menu **"Run All"** di toolbar atas
-   notebook (ikon double-play ▶▶).
+   notebook (ikon double-play ).
 
 **Estimasi waktu jalan:** sekitar 1-3 menit untuk seluruh notebook (karena dataset cukup besar,
 ~540 ribu baris transaksi mentah).
@@ -141,7 +141,7 @@ Setelah notebook selesai dijalankan semua, buka folder `outputs/` di Explorer VS
 ---
 
 
-## 🧩 Troubleshooting Cepat
+##  Troubleshooting Cepat
 
 | Masalah | Solusi |
 |---|---|
