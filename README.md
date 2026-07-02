@@ -132,8 +132,7 @@ lalu ulangi perintah `pip install -r requirements.txt`.
 
 ##  STEP 8 — Cek Hasil
 
-Setelah notebook selesai dijalankan semua, buka folder `outputs/` di Explorer VSCode — seharusnya
-sudah otomatis terisi:
+Setelah notebook selesai dijalankan semua, buka folder `outputs/` di Explorer VSCode: 
 - `transactions_cleaned.csv` — data transaksi setelah cleaning
 - `rfm_table.csv` — tabel RFM per pelanggan (sebelum cluster)
 - `rfm_clustered.csv` — tabel RFM + label cluster
