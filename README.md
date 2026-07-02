@@ -139,10 +139,6 @@ sudah otomatis terisi:
 - `rfm_clustered.csv` — tabel RFM + label cluster
 - `cluster_profile.csv` — ringkasan profil tiap cluster
 
-Grafik (elbow, scatter PCA, scatter 3D, boxplot) muncul langsung di bawah sel notebook yang
-bersangkutan — kamu bisa klik kanan pada gambar di notebook untuk **"Save Image As..."** kalau
-ingin disimpan sebagai file `.png` terpisah (untuk ditempel di laporan/presentasi).
-
 ---
 
 
