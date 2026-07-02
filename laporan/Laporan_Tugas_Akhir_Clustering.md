@@ -1,7 +1,7 @@
 # Laporan Tugas Akhir Data Mining
 ## Preprocessing dan Unsupervised Learning (Clustering): Segmentasi Pelanggan Online Retail
 
-**Nama:** Fahrezi
+**Nama:** Ikhram Fahrezi
 **NIM:** 241011402337
 **Kelas:** 04TPLM008
 **Mata Kuliah:** Data Mining
